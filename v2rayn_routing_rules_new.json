@@ -8158,7 +8158,7 @@
   },
   {
     "port": "",
-    "outboundTag": "proxy",
+    "outboundTag": "block",
     "domain": [
       "domain:09mk.cn",
       "domain:100peng.com",
@@ -9762,6 +9762,6 @@
       "224.0.0.0/4"
     ],
     "enabled": true,
-    "remarks": "REJECT"
+    "remarks": "🐟️ 漏网之鱼"
   }
 ]
